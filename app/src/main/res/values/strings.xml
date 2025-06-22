@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">app_s9</string>
+    <string name="reset">🔄 Reset</string>
+    <string name="visitas_0">📊 Visitas: 0</string>
+    <string name="app_s9">📱 App S9</string>
+    <string name="modo_oscuro">🌙 Modo Oscuro</string>
+    <string name="datos_b_sicos">✏️ Datos Básicos</string>
+    <string name="ingresa_tu_nombre">👤 Ingresa tu nombre</string>
+    <string name="guardar">💾 Guardar</string>
+    <string name="cargar">📂 Cargar</string>
+    <string name="perfil">👤 Perfil</string>
+    <string name="limpiar">🗑️ Limpiar</string>
 </resources>
