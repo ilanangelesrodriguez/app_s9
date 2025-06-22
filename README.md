@@ -208,6 +208,6 @@ Si tienes alguna pregunta o problema:
 ### ⭐ **¡Si te gustó este proyecto, dale una estrella!** ⭐
 ---
 
-*Universidad Nacional del Santa - 2024*
+*Universidad Nacional del Santa - 2025*
 
 </div>
